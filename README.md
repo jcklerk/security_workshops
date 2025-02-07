@@ -1,7 +1,7 @@
 # Security Workshops
 
 # DEPRECATED 💣
-De nieuwste versie van de workshops vind je [hier](https://github.com/Windesheim-HBO-ICT/Leerlijn-SE/tree/main/3.%20Procedurele%20informatie/Security/Workshops)
+De nieuwste versie van de workshops vind je [hier](https://leertaken.nl/9.-Security/1.-Workshop-Risk-Assessment/1.-Workshop-Risk-Assessment)
 
 ## Planning
 
